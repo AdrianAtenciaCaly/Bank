@@ -48,7 +48,7 @@ Este proyecto contiene el **BackEnd** en .NET, el **FrontEnd** en Vue/React y un
 C:\CodeTemp
 ├── BackEnd/           # Proyecto .NET 7 API
 │   └── BancoApi/      # Contiene el Dockerfile del backend
-├── FrontEnd/          # Proyecto frontend (Vue o React)
+├── FrontEnd/          # Proyecto frontend (Angular)
 │   └── banco-app/     # Contiene el Dockerfile del frontend
 ├── docker-compose.yml # Orquestador de todos los servicios
 └── README.md          # Este archivo
