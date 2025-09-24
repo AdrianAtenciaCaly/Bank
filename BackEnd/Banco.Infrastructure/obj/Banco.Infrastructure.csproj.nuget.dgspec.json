@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj": {}
+    "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Banco.Domain.csproj": {
+    "C:\\Bank\\Bank\\BackEnd\\Banco.Domain\\Banco.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Banco.Domain.csproj",
+        "projectUniqueName": "C:\\Bank\\Bank\\BackEnd\\Banco.Domain\\Banco.Domain.csproj",
         "projectName": "Banco.Domain",
-        "projectPath": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Banco.Domain.csproj",
+        "projectPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Domain\\Banco.Domain.csproj",
         "packagesPath": "C:\\Users\\aatenciac\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\obj\\",
+        "outputPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj": {
+    "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
         "projectName": "Banco.Infrastructure",
-        "projectPath": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
+        "projectPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\aatenciac\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\obj\\",
+        "outputPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Banco.Domain.csproj": {
-                "projectPath": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Banco.Domain.csproj"
+              "C:\\Bank\\Bank\\BackEnd\\Banco.Domain\\Banco.Domain.csproj": {
+                "projectPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Domain\\Banco.Domain.csproj"
               }
             }
           }

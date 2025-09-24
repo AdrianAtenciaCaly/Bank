@@ -1,36 +1,111 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CodeTemp\\BackEnd\\BancoApi\\",
+  "WorkspaceRootPath": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ADFA89F-5C1E-4168-A174-D7E5CD0F277C}|..\\Test\\Test.csproj|c:\\bank\\bank\\backend\\test\\application\\movementservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\bank\\bank\\backend\\banco.application\\services\\movementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\services\\movementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ADFA89F-5C1E-4168-A174-D7E5CD0F277C}|..\\Test\\Test.csproj|c:\\bank\\bank\\backend\\test\\application\\personservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\bank\\bank\\backend\\banco.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\interfaces\\imovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE9950E-608C-4C64-BEAA-F2BA7D44B77C}|..\\Banco.Application\\Banco.Application.csproj|c:\\codetemp\\backend\\banco.application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\controllers\\movementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:controllers\\movementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|c:\\bank\\bank\\backend\\bancoapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86605190-FEE9-4E00-8815-964624824806}|BancoApi.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Data\\Migrations\\20250923172141_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\ReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\AccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\MovementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IPersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IMovementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\ICustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IAccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,138 +118,397 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovementService.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
+              "RelativeDocumentMoniker": "..\\Banco.Application\\Services\\MovementService.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
+              "RelativeToolTip": "..\\Banco.Application\\Services\\MovementService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:31:38.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementServiceTests.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\Test\\Application\\MovementServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Test\\Application\\MovementServiceTests.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\Test\\Application\\MovementServiceTests.cs*",
+              "RelativeToolTip": "..\\Test\\Application\\MovementServiceTests.cs*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAA9wH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:30:50.932Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReportService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\ReportService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Services\\ReportService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\ReportService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Services\\ReportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PersonServiceTests.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\Test\\Application\\PersonServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Test\\Application\\PersonServiceTests.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\Test\\Application\\PersonServiceTests.cs",
+              "RelativeToolTip": "..\\Test\\Application\\PersonServiceTests.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwLkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:07:34.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Services\\PersonService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Services\\PersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:07:14.787Z",
+              "WhenOpened": "2025-09-24T19:19:27.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\CustomerService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "..\\Banco.Application\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
+              "RelativeToolTip": "..\\Banco.Application\\Services\\PersonService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA0wHIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:06:12.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Services\\AccountService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\AccountService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Services\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:13:12.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovementService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Services\\MovementService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Services\\MovementService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwIsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:13:12.907Z",
+              "WhenOpened": "2025-09-24T19:18:05.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IReportService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IReportService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Interfaces\\IReportService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IReportService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Interfaces\\IReportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:05:20.671Z",
-              "EditorCaption": ""
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-24T16:52:38.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPersonService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IPersonService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Interfaces\\IPersonService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IPersonService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Interfaces\\IPersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:05:15.206Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T16:29:16.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IMovementService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IMovementService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Interfaces\\IMovementService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IMovementService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Interfaces\\IMovementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-24T16:18:35.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:59:39.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T16:10:09.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Interfaces\\ICustomerService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\ICustomerService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Interfaces\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:59:31.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T16:10:04.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IAccountService.cs",
-              "RelativeDocumentMoniker": "..\\Banco.Application\\Interfaces\\IAccountService.cs",
-              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IAccountService.cs",
-              "RelativeToolTip": "..\\Banco.Application\\Interfaces\\IAccountService.cs",
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "Controllers\\PersonsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:10:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovementsController.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\MovementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovementsController.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\MovementsController.cs",
+              "RelativeToolTip": "Controllers\\MovementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:09:46.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:09:24.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:53.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:38.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:29.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:18.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250923172141_InitialCreate.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Data\\Migrations\\20250923172141_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Data\\Migrations\\20250923172141_InitialCreate.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Data\\Migrations\\20250923172141_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Data\\Migrations\\20250923172141_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:16.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:14.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Banco.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T16:08:12.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:10.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Bank\\Bank\\BackEnd\\BancoApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:13:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Account.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Domain\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:08:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\ReportService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\ReportService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\ReportService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:07:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:07:14.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:06:12.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\AccountService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:13:12.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovementService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Services\\MovementService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:13:12.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:05:20.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IPersonService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IPersonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:59:26.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T16:05:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMovementService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IMovementService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IMovementService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IMovementService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IMovementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:59:39.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:59:31.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CodeTemp\\BackEnd\\Banco.Application\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:59:26.062Z"
             }
           ]
         }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoApi", "BancoApi.csproj", "{86605190-FEE9-4E00-8815-964624824806}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco.Domain", "..\Banco.Domain\Banco.Domain.csproj", "{D3EACC52-7675-47E4-8549-FC424AB64E36}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco.Infrastructure", "..\Banco.Infrastructure\Banco.Infrastructure.csproj", "{FE273596-7E5D-4A12-BF84-ACC8C2D0C219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{6ADFA89F-5C1E-4168-A174-D7E5CD0F277C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FE273596-7E5D-4A12-BF84-ACC8C2D0C219}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE273596-7E5D-4A12-BF84-ACC8C2D0C219}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE273596-7E5D-4A12-BF84-ACC8C2D0C219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADFA89F-5C1E-4168-A174-D7E5CD0F277C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADFA89F-5C1E-4168-A174-D7E5CD0F277C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADFA89F-5C1E-4168-A174-D7E5CD0F277C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADFA89F-5C1E-4168-A174-D7E5CD0F277C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G89bD/p0ntQ=",
+  "dgSpecHash": "ZlGy/f+dZDU=",
   "success": true,
-  "projectFilePath": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
+  "projectFilePath": "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aatenciac\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aatenciac\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

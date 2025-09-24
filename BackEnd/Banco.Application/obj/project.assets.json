@@ -916,11 +916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Banco.Application.csproj",
+      "projectUniqueName": "C:\\Bank\\Bank\\BackEnd\\Banco.Application\\Banco.Application.csproj",
       "projectName": "Banco.Application",
-      "projectPath": "C:\\CodeTemp\\BackEnd\\Banco.Application\\Banco.Application.csproj",
+      "projectPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Application\\Banco.Application.csproj",
       "packagesPath": "C:\\Users\\aatenciac\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeTemp\\BackEnd\\Banco.Application\\obj\\",
+      "outputPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -942,8 +942,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj": {
-              "projectPath": "C:\\CodeTemp\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj"
+            "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj": {
+              "projectPath": "C:\\Bank\\Bank\\BackEnd\\Banco.Infrastructure\\Banco.Infrastructure.csproj"
             }
           }
         }

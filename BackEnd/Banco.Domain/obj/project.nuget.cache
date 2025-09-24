@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3kwIcqo2j4=",
+  "dgSpecHash": "XLGa6j7IXKY=",
   "success": true,
-  "projectFilePath": "C:\\CodeTemp\\BackEnd\\Banco.Domain\\Banco.Domain.csproj",
+  "projectFilePath": "C:\\Bank\\Bank\\BackEnd\\Banco.Domain\\Banco.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

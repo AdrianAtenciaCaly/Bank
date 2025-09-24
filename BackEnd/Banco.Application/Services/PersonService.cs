@@ -19,7 +19,7 @@ namespace Banco.Application.Services
             var personsRepo = _uow.Repository<Person>();
             var existing = await personsRepo.FindAsync(p => ((Person)p).Identification == dto.Identification);
             if (existing.Any())
-                return (false, "A person with the same identification already exists.", null);
+                return (false, "Ya existe una persona con la misma identificación.", null);
 
 
             var person = new Person
@@ -40,21 +40,21 @@ namespace Banco.Application.Services
 
 
             dto.Id = person.Id;
-            return (true, "Person created successfully.", dto);
+            return (true, "Persona creada correctamente.", dto);
         }
 
         public async Task<(bool IsSuccess, string Message)> DeleteAsync(Guid id)
         {
             var repo = _uow.Repository<Person>();
             var entity = await repo.GetByIdAsync(id);
-            if (entity == null) return (false, "Person not found.");
+            if (entity == null) return (false, "Persona no encontrada.");
 
 
             repo.Remove(entity);
             await _uow.SaveChangesAsync();
 
 
-            return (true, "Person deleted.");
+            return (true, "Persona eliminada.");
         }
 
         public async Task<IEnumerable<PersonDTO>> GetAllAsync()
@@ -98,7 +98,7 @@ namespace Banco.Application.Services
         {
             var repo = _uow.Repository<Person>();
             var entity = await repo.GetByIdAsync(id);
-            if (entity == null) return (false, "Person not found.");
+            if (entity == null) return (false, "Persona no encontrada.");
 
             entity.FirstName = dto.FirstName;
             entity.LastName = dto.LastName;
@@ -112,7 +112,7 @@ namespace Banco.Application.Services
             await _uow.SaveChangesAsync();
 
 
-            return (true, "Person updated.");
+            return (true, "Persona actualizada.");
         }
     }
 }
