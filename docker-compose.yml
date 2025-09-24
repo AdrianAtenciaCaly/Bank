@@ -39,7 +39,7 @@ services:
     ports:
       - "8080:80"
     environment:
-      API_URL: "http://backend:80/api"   # o REACT_APP_API_URL si es React
+      API_URL: "http://backend:80/api"   
     restart: unless-stopped
 
 volumes:
