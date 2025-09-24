@@ -1,0 +1,11 @@
+C:\CodeTemp\BackEnd\Banco.Domain\bin\Debug\net9.0\Banco.Domain.deps.json
+C:\CodeTemp\BackEnd\Banco.Domain\bin\Debug\net9.0\Banco.Domain.dll
+C:\CodeTemp\BackEnd\Banco.Domain\bin\Debug\net9.0\Banco.Domain.pdb
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\Banco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\Banco.Domain.AssemblyInfoInputs.cache
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\Banco.Domain.AssemblyInfo.cs
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\Banco.Domain.csproj.CoreCompileInputs.cache
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\Banco.Domain.dll
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\refint\Banco.Domain.dll
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\Banco.Domain.pdb
+C:\CodeTemp\BackEnd\Banco.Domain\obj\Debug\net9.0\ref\Banco.Domain.dll

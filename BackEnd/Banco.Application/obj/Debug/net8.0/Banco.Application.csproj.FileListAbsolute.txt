@@ -1,0 +1,17 @@
+C:\CodeTemp\BackEnd\Banco.Application\bin\Debug\net8.0\Banco.Application.deps.json
+C:\CodeTemp\BackEnd\Banco.Application\bin\Debug\net8.0\Banco.Application.dll
+C:\CodeTemp\BackEnd\Banco.Application\bin\Debug\net8.0\Banco.Application.pdb
+C:\CodeTemp\BackEnd\Banco.Application\bin\Debug\net8.0\Banco.Domain.dll
+C:\CodeTemp\BackEnd\Banco.Application\bin\Debug\net8.0\Banco.Infrastructure.dll
+C:\CodeTemp\BackEnd\Banco.Application\bin\Debug\net8.0\Banco.Infrastructure.pdb
+C:\CodeTemp\BackEnd\Banco.Application\bin\Debug\net8.0\Banco.Domain.pdb
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Application.csproj.AssemblyReference.cache
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Application.AssemblyInfoInputs.cache
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Application.AssemblyInfo.cs
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Application.csproj.CoreCompileInputs.cache
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Ap.A03861BE.Up2Date
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Application.dll
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\refint\Banco.Application.dll
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\Banco.Application.pdb
+C:\CodeTemp\BackEnd\Banco.Application\obj\Debug\net8.0\ref\Banco.Application.dll

@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:15
+    container_name: banco-db
+    restart: always
+    environment:
+      POSTGRES_USER: banco
+      POSTGRES_PASSWORD: banco123
+      POSTGRES_DB: banco_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: ./BackEnd
+      dockerfile: BancoApi/Dockerfile
+    container_name: banco-backend
+    depends_on:
+      - db
+    environment:
+      ConnectionStrings__Default: "Host=db;Database=banco_db;Username=banco;Password=banco123"
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: "http://+:80"
+    ports:
+      - "5000:80"
+    restart: always
+
+  frontend:
+    build:
+      context: ./FrontEnd/banco-app
+      dockerfile: Dockerfile
+    container_name: banco-frontend
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+    environment:
+      API_URL: "http://backend:80/api"   # o REACT_APP_API_URL si es React
+    restart: unless-stopped
+
+volumes:
+  db_data:
